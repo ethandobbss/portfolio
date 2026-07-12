@@ -39,7 +39,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ---
 ## [Project 1: Duplicate MRN Analysis Project](https://github.com/ethandobbss/duplicate-mrn-analysis)
 
-In this project, I analyzed and visualized the sales data for ....
+An end-to-end healthcare analytics project exploring duplicate medical record numbers (MRNs) across a synthetic hospital dataset. Using Mockaroo, SQL, and Power BI, I identified where duplicates originate, what causes them, and how efficiently they're resolved, translating the findings into a 3-page report and process improvement recommendations.
 
 
 

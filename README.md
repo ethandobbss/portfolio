@@ -29,7 +29,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
-- [Project 1: Duplicate MRN Report](www.youtube.com)
+- [Project 1: Duplicate MRN Report](https://github.com/ethandobbss/duplicate-mrn-analysis)
 
 
 ---

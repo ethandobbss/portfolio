@@ -35,6 +35,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ## Table of Contents
 
 - [Project 1: Duplicate MRN Analysis Project](https://github.com/ethandobbss/duplicate-mrn-analysis)
+- [Project 2: Superstore Retail Analytics Project](https://github.com/ethandobbss/superstore-sql-analysis)
 
 
 ---
@@ -42,7 +43,9 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 An end-to-end healthcare analytics project exploring duplicate medical record numbers (MRNs) across a synthetic hospital dataset. Using Mockaroo, SQL, and Power BI, I identified where duplicates originate, what causes them, and how efficiently they're resolved, translating the findings into a 3-page report and process improvement recommendations.
 
+## [Project 2: Superstore Retail Amalytics Project](https://github.com/ethandobbss/superstore-sql-analysis)
 
+text text text
 
 ## Contact Information
 

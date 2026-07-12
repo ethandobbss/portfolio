@@ -29,13 +29,13 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
-- [Project 1: Duplicate MRN Report](https://github.com/ethandobbss/duplicate-mrn-analysis)
+- [Project 1: Duplicate MRN Analysis Project](https://github.com/ethandobbss/duplicate-mrn-analysis)
 
 
 ---
-## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+## [Project 1: Duplicate MRN Analysis Project](https://github.com/ethandobbss/duplicate-mrn-analysis)
 
-In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
+In this project, I analyzed and visualized the sales data for ....
 
 
 

@@ -19,6 +19,11 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Notion](https://img.shields.io/badge/NOTION-black?style=for-the-badge)
+![Mockaroo](https://img.shields.io/badge/MOCKAROO-%2352a552?style=for-the-badge)
+![Trello](https://img.shields.io/badge/TRELLO-blue?style=for-the-badge)
+
+
 
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
 

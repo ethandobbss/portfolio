@@ -24,7 +24,7 @@
 ![Mockaroo](https://img.shields.io/badge/MOCKAROO-%2352a552?style=for-the-badge)
 ![Trello](https://img.shields.io/badge/TRELLO-blue?style=for-the-badge)
 ![Google Slides](https://img.shields.io/badge/GOOGLE%20SLIDES-yellow?style=for-the-badge)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34eb34?style=for-the-badge&logoColor=black)
 
 
 

@@ -35,17 +35,21 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ## Table of Contents
 
 - [Project 1: Duplicate MRN Analysis Project](https://github.com/ethandobbss/duplicate-mrn-analysis)
-- [Project 2: Superstore Retail Analytics Project](https://github.com/ethandobbss/superstore-sql-analysis)
+- [Project 2: Adidas Sales Excel Dashboard](https://github.com/ethandobbss/adidas-sales-excel-dashboard)
 
 
 ---
 ## [Project 1: Duplicate MRN Analysis Project](https://github.com/ethandobbss/duplicate-mrn-analysis)
 
+![Executive Summary](assets/duplicate_MRN_analysis_project_report-1.png)
+
 An end-to-end healthcare analytics project exploring duplicate medical record numbers (MRNs) across a synthetic hospital dataset. Using Mockaroo, SQL, and Power BI, I identified where duplicates originate, what causes them, and how efficiently they're resolved, translating the findings into a 3-page report and process improvement recommendations.
 
-## [Project 2: Superstore Retail Analytics Project](https://github.com/ethandobbss/superstore-sql-analysis)
+## [Project 2: Adidas Sales Excel Dashboard](https://github.com/ethandobbss/adidas-sales-excel-dashboard)
 
-text text text
+![Adidas Sales Excel Dashboard](assets/dashboard.png)
+
+An Excel dashboard analyzing Adidas retail sales performance across regions, retailers, products, and sales methods, featuring pivot tables, interactive charts, and a navigable file structure for easy exploration.
 
 ## Contact Information
 

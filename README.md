@@ -36,6 +36,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 - [Project 1: Duplicate MRN Analysis Project](https://github.com/ethandobbss/duplicate-mrn-analysis)
 - [Project 2: Adidas Sales Excel Dashboard](https://github.com/ethandobbss/adidas-sales-excel-dashboard)
+- [Project 3: Retail Product Dataset With Missing Values - SQL Showcase](https://github.com/ethandobbss/retail-missing-values-sql-showcase)
 
 
 ---
@@ -50,6 +51,10 @@ An end-to-end healthcare analytics project exploring duplicate medical record nu
 ![Adidas Sales Excel Dashboard](assets/dashboard.png)
 
 An Excel dashboard analyzing Adidas retail sales performance across regions, retailers, products, and sales methods, featuring pivot tables, interactive charts, and a navigable file structure for easy exploration.
+
+## [Project 3: Retail Product Dataset With Missing Values - SQL Showcase](https://github.com/ethandobbss/retail-missing-values-sql-showcase)
+
+A SQL project cleaning and analyzing a retail dataset to uncover pricing, rating, and inventory insights.
 
 ## Contact Information
 

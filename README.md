@@ -28,7 +28,7 @@
 
 
 
-Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
+Welcome to my data analytics portfolio! This repository showcases my skills in data cleaning, database design, and business intelligence reporting using tools like SQL, Power BI, and Excel. Below, you'll find a collection of projects that demonstrate my ability to turn raw data into clear, actionable insights.
 
 
 
@@ -50,7 +50,7 @@ An end-to-end healthcare analytics project exploring duplicate medical record nu
 
 ![Adidas Sales Excel Dashboard](assets/dashboard.png)
 
-An Excel dashboard analyzing Adidas retail sales performance across regions, retailers, products, and sales methods, featuring pivot tables, interactive charts, and a navigable file structure for easy exploration.
+An Excel dashboard analyzing Adidas retail sales performance across regions, retailers, products, and sales methods, using pivot tables, dynamic charts, and hyperlinked navigation. The analysis reveals five actionable business insights to guide sales strategy.
 
 ## [Project 3: Retail Product Dataset With Missing Values - SQL Showcase](https://github.com/ethandobbss/retail-missing-values-sql-showcase)
 
